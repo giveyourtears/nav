@@ -1,0 +1,21 @@
+.navbar-light {
+    border-bottom: 4px solid #b75d33;
+    .navbar-nav {
+        .nav-link {
+            color: #aaa;
+        }
+        .nav-link:hover {
+            color: #b75d33;
+        }
+    }
+    .dropdown-item {
+        color: #aaa;
+    }
+    .dropdown-item:hover {
+        color: #b75d33;
+    }
+}
+
+.a {
+    color: #b75d33;
+}

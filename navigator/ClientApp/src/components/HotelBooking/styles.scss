@@ -1,0 +1,16 @@
+#main {
+    .pad-global {
+        .content {
+            height: 100%;
+            .field {
+                height: calc(100% - 80px);
+                .field-item.even {
+                    height: 100%;
+                    iframe {
+                        height: 100%!important;
+                    }
+                }
+            }
+        }
+    }
+}

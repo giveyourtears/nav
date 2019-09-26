@@ -1,0 +1,11 @@
+.title-header {padding: .75rem 1.25rem; background-color: #f5f5f5; border-bottom: 1px solid transparent;}
+.title-header h3 {font-size: 0.80rem; margin: 0;}
+.movies {margin-top: 2rem;}
+.card-block{border-color: black}
+.img-card {width: 100%; margin-bottom: .40rem;}
+.movies {margin-bottom: .60rem;}
+.series {margin-bottom: .60rem;}
+.btn {background-color: white; color: black; border-color:black}
+.btn:hover{background-color: #b78c33; border-color:#b78c33}
+.page-item > a{color:black;}
+.page-item > a:hover{color:#b78c33;}

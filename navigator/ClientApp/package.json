@@ -1,0 +1,39 @@
+{
+  "name": "diplom",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "bootstrap": "^4.3.1",
+    "mdbreact": "^4.11.0",
+    "node-sass": "^4.11.0",
+    "query-string": "^6.5.0",
+    "react": "^16.8.3",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.8.3",
+    "react-redux": "^6.0.1",
+    "react-responsive-carousel": "^3.1.47",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "2.1.5",
+    "redux": "^4.0.1",
+    "redux-actions": "^2.6.4",
+    "redux-form": "^8.1.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "react-alice-carousel": "^1.13.1"
+  }
+}
